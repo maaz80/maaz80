@@ -2,21 +2,27 @@
 # 👋 Hello, I'm Maaz Shakeel!
 
 ### 👨‍💻 About Me
-My name is **Maaz Shakeel**, a **2024 BCA graduate** with a solid **1.5 year of coding experience in frontend development**. I specialize in creating interactive and visually compelling web applications using a wide array of technologies, including **HTML, CSS, JavaScript, React JS, Redux, Redux Toolkit, NextJS, Tailwind CSS, GSAP, and C++**.
+My name is **Maaz Shakeel**, a **2024 BCA graduate** with **1 year of experience in frontend development**. I specialize in creating interactive and visually compelling web applications using various technologies.
 
-Currently, I’m working as a **Frontend Developer Intern/Lead at KhanaDotCom** — a startup focused on building a seamless food delivery experience through a robust, user-friendly frontend.
+Currently, I’m working as a **Frontend Developer Intern/Lead at KhanaDotCom** — a startup focused on building a seamless food delivery experience.
 
 ### 🌟 My Journey at KhanaDotCom
-- I've been with **KhanaDotCom** for the past 5 months, contributing as a frontend developer on the company’s official website for food delivery services.
-- After 1 month of dedicated hard work, I was promoted to **Leader of the Intern Team** due to my high-quality work, UI expertise, and guidance on frontend-backend integration for optimal performance.
-- My role involves collaborating closely with the team to ensure the website is intuitive, visually engaging, and optimized for a smooth user experience.
+- **Frontend Developer Intern** for 5 months, promoted to **Leader of the Intern Team** after 1 month for high-quality UI and team guidance.
+- Contributed to the official website’s frontend, ensuring it’s user-friendly, visually engaging, and well-integrated with backend APIs.
 
-### 🔧 Skills
-- **Languages & Libraries:** HTML, CSS, JavaScript, React JS, Redux, Redux Toolkit, NextJS, Tailwind CSS, GSAP, C++, MongoDB, Express JS
-- **Frontend:** Interactive design, responsive layouts, performance optimization
-- **Collaboration:** Mentorship, team leadership, cross-functional coordination
+### 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 📫 Let's Connect!
-If you're interested in collaborating, discussing frontend development, or exploring exciting projects together, feel free to reach out!
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazshakeel)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maaz80)
 
 ---
