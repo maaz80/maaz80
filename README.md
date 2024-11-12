@@ -22,7 +22,7 @@ Currently, I’m working as a **Frontend Developer Intern/Lead at KhanaDotCom** 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png))](https://www.linkedin.com/in/maazshakeel)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazshakeel)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maaz80)
 
 ---
