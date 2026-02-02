@@ -53,7 +53,7 @@ A **production-ready food delivery system** with complete order lifecycle.
 - Vendor notification via WhatsApp API  
 - Secure payments via Razorpay Webhooks  
 
-**Tech Stack:** React.js, Tailwind CSS, Supabase, Node.js, Express.js :contentReference[oaicite:6]{index=6}
+**Tech Stack:** React.js, Tailwind CSS, Supabase, Node.js, Express.js
 
 ---
 
